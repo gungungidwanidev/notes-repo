@@ -1,0 +1,2 @@
+# notes-repo
+studying notes
